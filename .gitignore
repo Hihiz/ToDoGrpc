@@ -363,3 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 /ToDoGrpc/ToDoItemDb.db-shm
 /ToDoGrpc/ToDoItemDb.db-wal
+/ToDoGrpc/ToDoItemDb.db
